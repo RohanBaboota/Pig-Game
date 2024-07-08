@@ -1,1 +1,1 @@
-This is a Twow player intreactive dice game 
+This is a Two player intreactive dice game 
